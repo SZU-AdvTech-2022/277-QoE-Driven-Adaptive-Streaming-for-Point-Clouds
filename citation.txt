@@ -1,0 +1,7 @@
+@article{REPO-278,
+    author = "Wang, Lisha and Li, Chenglin and Dai, Wenrui and Li, Shaohui and Zou, Junni and Xiong, Hongkai",
+    journal = "IEEE Transactions on Multimedia",
+    pages = "1-1",
+    title = "{QoE-Driven Adaptive Streaming for Point Clouds}",
+    year = "2022"
+}
