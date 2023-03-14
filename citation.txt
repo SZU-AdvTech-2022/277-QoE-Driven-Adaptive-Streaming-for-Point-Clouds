@@ -1,4 +1,4 @@
-@article{REPO-278,
+@article{REPO-277,
     author = "Wang, Lisha and Li, Chenglin and Dai, Wenrui and Li, Shaohui and Zou, Junni and Xiong, Hongkai",
     journal = "IEEE Transactions on Multimedia",
     pages = "1-1",
